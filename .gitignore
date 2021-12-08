@@ -1,0 +1,11 @@
+/.idea
+Homestead.json
+Homestead.yaml
+*.env
+.phpunit.result.cache
+/pgsql-data
+.DS_Store
+/api/vendor
+/api/composer.lock
+/api/storage/framework/laravel-excel
+**/node_modules/
